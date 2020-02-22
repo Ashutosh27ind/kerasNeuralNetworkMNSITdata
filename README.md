@@ -2,7 +2,7 @@
 Demonstration of how Keras works as a wrapper and how to build a model in Keras on the **MNIST** dataset
 
 ## Platfor used :
-https://www.nimblebox.ai/
+https://www.nimblebox.ai/  
 (_Platform to enable work faster on AI projects with customizable GPU and CPU machines_)
 
 Keras is a high-level library designed to work on top of Theano or Tensorflow. The main idea of Keras is to be an easy to use,   minimalistic API which can be used to build and deploy deep learning models quickly. Due to its simplicity, Keras' syntax and model     building pipeline is  easy to learn for beginners (though it does not compromise on flexibility - you can do almost everything with Keras which you can do with pure Tensorflow or Theano).  
